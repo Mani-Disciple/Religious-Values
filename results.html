@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
+        <link href='style.css' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="x-icon" href="assets/icon.png">
+        <link rel="shortcut icon" type="x-icon" href="assets/icon.png">
+        <title>DiscriminatoryValues</title>
+        <meta property="og:ttl" content="600">
+        <meta property="og:site_name" content="afunhumaninter.github.io/discriminatoryvalues">
+        <meta property="og:title" content="DiscriminatoryValues">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="DiscriminatoryValues is a political quiz aimed at determining how discriminatory you are on six distinct axes.">
+        <meta property="og:url" content="https://afunhumaninter.github.io/discriminatoryvalues/">
+        <meta property="og:image" content="https://afunhumaninter.github.io/discriminatoryvalues/assets/previcon.png">
+        <meta property="og:image:width" content="1024">
+        <meta property="og:image:height" content="1024">
+        <meta name="theme-color" content="#000000" data-react-helmet="true">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1><small>DiscriminatoryValues</small></h1>
+        <hr>
+        <h1>Results</h1>
+        <h2>Racism Axis: <span class="weight-300" id="racism-label"></span></h2>
+        <div class="axis">
+            <img id="img-whitesup" src="assets/values/whitesup.svg" height="128pt"/>
+            <div class="bar whitesup" id="bar-whitesup"><div class="text-wrapper" id="whitesup"></div></div>
+            <div class="bar blacksup" id="bar-blacksup"><div class="text-wrapper" id="blacksup"></div></div>
+            <img id="img-blacksup" src="assets/values/blacksup.svg" height="128pt"/>
+        </div>
+        <h2>Sexism Axis: <span class="weight-300" id="sexism-label"></span></h2>
+        <div class="axis">
+            <img id="img-matriarchy" src="assets/values/matriarchy.svg" height="128pt"/>
+            <div class="bar matriarchy" id="bar-matriarchy"><div class="text-wrapper" id="matriarchy"></div></div>
+            <div class="bar patriarchy" id="bar-patriarchy"><div class="text-wrapper" id="patriarchy"></div></div>
+            <img id="img-patriarchy" src="assets/values/patriarchy.svg" height="128pt"/>
+        </div>
+        <h2>Ageism Axis: <span class="weight-300" id="ageism-label"></span></h2>
+        <div class="axis">
+            <img id="img-jeunism" src="assets/values/jeunism.svg" height="128pt"/>
+            <div class="bar jeunism" id="bar-jeunism"><div class="text-wrapper" id="jeunism"></div></div>
+            <div class="bar adultism" id="bar-adultism"><div class="text-wrapper" id="adultism"></div></div>
+            <img id="img-adultism" src="assets/values/adultism.svg" height="128pt"/>
+        </div>
+        <h2>Sexual Orientation Axis: <span class="weight-300" id="homophobia-label"></span></h2>
+        <div class="axis">
+            <img id="img-hetero" src="assets/values/hetero.svg" height="128pt"/>
+            <div class="bar hetero" id="bar-hetero"><div class="text-wrapper" id="hetero"></div></div>
+            <div class="bar homo" id="bar-homo"><div class="text-wrapper" id="homo"></div></div>
+            <img id="img-homo" src="assets/values/homo.svg" height="128pt"/>
+        </div>
+        <h2>Gender Identity Axis: <span class="weight-300" id="transphobia-label"></span></h2>
+        <div class="axis">
+            <img id="img-cis" src="assets/values/cis.svg" height="128pt"/>
+            <div class="bar cis" id="bar-cis"><div class="text-wrapper" id="cis"></div></div>
+            <div class="bar trans" id="bar-trans"><div class="text-wrapper" id="trans"></div></div>
+            <img id="img-trans" src="assets/values/trans.svg" height="128pt"/>
+        </div>
+        <h2>Body Shape Axis: <span class="weight-300" id="fatphobia-label"></span></h2>
+        <div class="axis">
+            <img id="img-thin" src="assets/values/thin.svg" height="128pt"/>
+            <div class="bar thin" id="bar-thin"><div class="text-wrapper" id="thin"></div></div>
+            <div class="bar fat" id="bar-fat"><div class="text-wrapper" id="fat"></div></div>
+            <img id="img-fat" src="assets/values/fat.svg" height="128pt"/>
+        </div>
+        <p>You can send these results by copying and pasting the URL at the top of the page or using the image below. Want to help us calibrate the test? Send the results along with your political ideology to afunhumaninter#9121 on Discord or any other comments, questions, or criticism. </p>
+        <hr/>
+        <img src="" id="banner">
+        <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
+        <script type="module" src="scripts/results.js"></script>
+    </body>
+</html>

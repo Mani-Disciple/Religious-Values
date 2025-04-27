@@ -1,17 +1,6 @@
 [
     {
-      "question": "White people are superior to other races, and eugenics are an acceptable means of achieving a white ethnostate.",
-      "effect": {
-        "rcsm": 10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "Black people are superior to other races, and eugenics are an acceptable means of achieving a black ethnostate.",
+      "question": "I believe in god/gods.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -22,7 +11,7 @@
       }
     },
     {
-      "question": "Blacks are to be the slaves of whites.",
+      "question": "Science can explain everything without the need for religion.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -33,18 +22,7 @@
       }
     },
     {
-      "question": "Whites are to be the slave of blacks.",
-      "effect": {
-        "rcsm": -10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "There is nothing wrong with using strong ethnic slurs against black people.",
+      "question": "It is irrational to be religious.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -55,7 +33,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with using strong ethnic slurs against white people.",
+      "question": "I regularly participate in religious services.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -66,7 +44,18 @@
       }
     },
     {
-      "question": "The Democratic Party is a black nationalist party.",
+      "question": "I pray often.",
+      "effect": {
+        "rcsm": -10,
+        "sxsm": 0,
+        "agsm": 0,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "Religious identity is not an important part of who I am.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -77,29 +66,7 @@
       }
     },
     {
-      "question": "The Republican Party is a white nationalist party.",
-      "effect": {
-        "rcsm": -10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "Hate crimes against whites are inherently justified.",
-      "effect": {
-        "rcsm": -10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "Hate crimes against blacks are inherently justified.",
+      "question": "I am almost certain that god doesn’t exist.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -110,18 +77,7 @@
       }
     },
     {
-      "question": "The Democratic Party, if it has not already embraced black supremacy, should embrace black supremacy.",
-      "effect": {
-        "rcsm": -10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "Alt-Right racial theory is good.",
+      "question": "Religion is not a force for good in the world.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -132,18 +88,7 @@
       }
     },
     {
-      "question": "A white America with no record of blacks in its history is to be preferred.",
-      "effect": {
-        "rcsm": 10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "A black America with no record of whites in its history is to be preferred.",
+      "question": "The universe contains a higher power.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -154,7 +99,7 @@
       }
     },
     {
-      "question": "Whites are simply less evolved than blacks.",
+      "question": "I believe in objective morality, independent of human beliefs or societal norms .",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -165,65 +110,10 @@
       }
     },
     {
-      "question": "Blacks are simply less evolved than whites.",
-      "effect": {
-        "rcsm": 10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "Black people should have the legal ability to participate in civil life like a white person.",
-      "effect": {
-        "rcsm": -10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "White people should have the legal ability to participate in civil life like a black person.",
-      "effect": {
-        "rcsm": 10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "Black people should have the right to vote, participate in government, etc.",
-      "effect": {
-        "rcsm": -10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "White people should have the right to vote, participate in government, etc.",
-      "effect": {
-        "rcsm": 10,
-        "sxsm": 0,
-        "agsm": 0,
-        "hmpb": 0,
-        "cisp": 0,
-        "fatp": 0
-      }
-    },
-    {
-      "question": "The man should head the house.",
+      "question": "What is the chance that There is at least one god?",
       "effect": {
         "rcsm": 0,
-        "sxsm": -10,
+        "sxsm": 25,
         "agsm": 0,
         "hmpb": 0,
         "cisp": 0,
@@ -231,10 +121,10 @@
       }
     },
     {
-      "question": "The woman should head the house.",
+      "question": "What is the chance of there being an afterlife or reincarnation?.",
       "effect": {
         "rcsm": 0,
-        "sxsm": 10,
+        "sxsm": 25,
         "agsm": 0,
         "hmpb": 0,
         "cisp": 0,
@@ -242,10 +132,10 @@
       }
     },
     {
-      "question": "Women should have no place in the military.",
+      "question": "What is the chance that any religious text contains mostly true information about the nature of reality?",
       "effect": {
         "rcsm": 0,
-        "sxsm": -10,
+        "sxsm": 25,
         "agsm": 0,
         "hmpb": 0,
         "cisp": 0,
@@ -253,10 +143,10 @@
       }
     },
     {
-      "question": "Women are property.",
+      "question": "What is the chance that prayer can influence real-world events?",
       "effect": {
         "rcsm": 0,
-        "sxsm": -10,
+        "sxsm": 25,
         "agsm": 0,
         "hmpb": 0,
         "cisp": 0,
@@ -264,23 +154,133 @@
       }
     },
     {
-      "question": "Men are property.",
+      "question": "(Assuming god exists) There is only one true God who rules over everything.",
       "effect": {
         "rcsm": 0,
-        "sxsm": 10,
-        "agsm": 0,
+        "sxsm": 0,
+        "agsm": -10,
         "hmpb": 0,
         "cisp": 0,
         "fatp": 0
       }
     },
     {
-      "question": "Traditional gender roles are unfairly patriarchal.",
+      "question": "(Assuming god exists) The divine exists in many forms, each worthy of worship.",
       "effect": {
         "rcsm": 0,
-        "sxsm": 10,
+        "sxsm": 0,
+        "agsm": 10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) Worship should be directed to one supreme being only.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": -10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) Multiple gods exist without contradiction.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": 10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) It is more likely that several gods exist than just 1.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": 10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) 1 god is more plausible than many.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": -10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) I believe that there are hundreds of gods, if not more.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": 10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) The universe is 1 thing which is god.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": -10,
+        "hmpb": 0,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) Two ultimate principles — one good, one evil — are at war in the cosmos.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
         "agsm": 0,
         "hmpb": 0,
+        "cisp": 10,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "(Assuming god exists) There are exactly 2 gods.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": 0,
+        "hmpb": 0,
+        "cisp": 10,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "People of different faiths deserve the same respect as my own.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": 0,
+        "hmpb": 10,
+        "cisp": 0,
+        "fatp": 0
+      }
+    },
+    {
+      "question": "Only people who follow the true religion can be truly good.",
+      "effect": {
+        "rcsm": 0,
+        "sxsm": 0,
+        "agsm": 0,
+        "hmpb": 10,
         "cisp": 0,
         "fatp": 0
       }

@@ -1,2 +1,2 @@
-# Discriminatoryvalues
-DiscriminatoryValues is a political quiz aimed at determining how discriminatory you are on six distinct axes.
+# Religiousvalues
+ReligousValues is a Religious quiz aimed at determining your relationship to religion on 4 axis.
